@@ -13,7 +13,7 @@ Config.FocusThreshold = 0.125                  -- Screen distance threshold for 
 
 -- Keybinds
 Config.InteractionKey = 0x8AAA0AD4             -- Key to hold for interactions (default: ALT)
-Config.SelectKey = 0x17BEC168                  -- Key to select option (default: Left Mouse Button)
+Config.SelectKey = 0x760A9C6F                  -- Key to select option (default: Left Mouse Button)
 Config.ScrollUpKey = 0x9DA42644                -- Key to scroll up in menu (default: Mouse Wheel Up)
 Config.ScrollDownKey = 0x81457A1A              -- Key to scroll down in menu (default: Mouse Wheel Down)
 Config.UpKey = 0x6319DB71                      -- Alternative Up Key (UP ARROW)
